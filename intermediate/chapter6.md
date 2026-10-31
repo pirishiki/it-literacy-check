@@ -65,3 +65,5 @@ Spring Bootは、裏のサーバーでたくさんの仕事をこなすのに向
 PostgreSQLは、たくさんのデータを入れるのに向いているので、用途に合っています。
 
 また、React、Spring Boot、PostgreSQLはどれも多くの人が使っているので、ノウハウが多く、困ったときに調べやすいです。
+
+以上のことから、React + Spring Boot + PostgreSQL を選定しました。
